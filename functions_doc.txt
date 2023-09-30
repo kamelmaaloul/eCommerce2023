@@ -1,0 +1,5 @@
+Function get All Records...
+
+getAllFrom($field,$table,$where=null,$and=null,$orderfield,$ordering='DESC')
+
+$where : can be empty.
